@@ -339,8 +339,7 @@
 
 }
 
-.task-list-card{
-    flex: 1;
+.listed{
     padding: 2rem;
     display: flex;
     flex-direction: column;
