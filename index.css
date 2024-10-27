@@ -29,6 +29,7 @@
     padding: 2rem 6rem;
     background-image: url(Grey\ finance\ \(2\).jpg);
     position: fixed;
+    top: 0;
 }
 
 .nav-bar-container{
@@ -105,7 +106,8 @@
 
 .hero-section{
     background-image: url(Grey\ finance\ \(2\).jpg);
-    height: 100vh;
+    height: auto;
+    margin-top: 8rem;
 }
 
 .hero-section-container{
@@ -339,7 +341,7 @@
 
 }
 
-.listed{
+.features-card-list-container{
     padding: 2rem;
     display: flex;
     flex-direction: column;
